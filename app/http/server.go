@@ -7,13 +7,13 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/apernet/hysteria/core/transport"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/M4TRIX04/hysteria/core/transport"
+	"github.com/M4TRIX04/hysteria/core/utils"
 
 	"github.com/elazarl/goproxy/ext/auth"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/acl"
+	"github.com/M4TRIX04/hysteria/core/cs"
 	"github.com/elazarl/goproxy"
 )
 
