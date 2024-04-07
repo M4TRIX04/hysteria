@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/LiamHaworth/go-tproxy"
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/M4TRIX04/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/utils"
 )
 
 type TCPTProxy struct {
