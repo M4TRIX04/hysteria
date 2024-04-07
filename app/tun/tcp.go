@@ -6,7 +6,7 @@ package tun
 import (
 	"net"
 
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/M4TRIX04/hysteria/core/utils"
 	"github.com/xjasonlyu/tun2socks/v2/core/adapter"
 )
 
