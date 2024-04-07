@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/cs"
 )
 
 type TCPTProxy struct{}
