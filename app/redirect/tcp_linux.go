@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/M4TRIX04/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/utils"
 )
 
 type TCPRedirect struct {
