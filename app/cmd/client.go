@@ -11,21 +11,21 @@ import (
 	"os"
 	"time"
 
-	hyHTTP "github.com/apernet/hysteria/app/http"
-	"github.com/apernet/hysteria/app/redirect"
-	"github.com/apernet/hysteria/app/relay"
-	"github.com/apernet/hysteria/app/socks5"
-	"github.com/apernet/hysteria/app/tproxy"
+	hyHTTP "https://github.com/M4TRIX04/hysteria/app/http"
+	"https://github.com/M4TRIX04/hysteria/app/redirect"
+	"https://github.com/M4TRIX04/hysteria/app/relay"
+	"https://github.com/M4TRIX04/hysteria/app/socks5"
+	"https://github.com/M4TRIX04/hysteria/app/tproxy"
 
-	"github.com/apernet/hysteria/core/pktconns"
+	"https://github.com/M4TRIX04/hysteria/core/pktconns"
 
-	"github.com/apernet/hysteria/core/pmtud"
+	"https://github.com/M4TRIX04/hysteria/core/pmtud"
 	"github.com/oschwald/geoip2-golang"
 	"github.com/yosuke-furukawa/json5/encoding/json5"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/transport"
+	"https://github.com/M4TRIX04/hysteria/core/acl"
+	"https://github.com/M4TRIX04/hysteria/core/cs"
+	"https://github.com/M4TRIX04/hysteria/core/transport"
 	"github.com/quic-go/quic-go"
 	"github.com/sirupsen/logrus"
 )
