@@ -9,12 +9,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/apernet/hysteria/app/tun"
+	"github.com/M4TRIX04/hysteria/app/tun"
 
 	"github.com/docker/go-units"
 	"gvisor.dev/gvisor/pkg/tcpip/transport/tcp"
 
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/cs"
 	"github.com/sirupsen/logrus"
 )
 
