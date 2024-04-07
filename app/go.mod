@@ -1,11 +1,11 @@
-module github.com/apernet/hysteria/app
+module github.com/M4TRIX04/hysteria/app
 
 go 1.20
 
 require (
 	github.com/LiamHaworth/go-tproxy v0.0.0-20190726054950-ef7efd7f24ed
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
-	github.com/apernet/hysteria/core v0.0.0-00010101000000-000000000000
+	github.com/M4TRIX04/hysteria/core v0.0.0-00010101000000-000000000000
 	github.com/caddyserver/certmagic v0.17.2
 	github.com/docker/go-units v0.5.0
 	github.com/elazarl/goproxy v0.0.0-20221015165544-a0805db90819
@@ -88,10 +88,10 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/apernet/hysteria/core => ../core/
+replace github.com/M4TRIX04/hysteria/core => ../core/
 
-replace github.com/quic-go/quic-go => github.com/apernet/quic-go v0.34.1-0.20230507231629-ec008b7e8473
+replace github.com/quic-go/quic-go => github.com/M4TRIX04/quic-go v0.34.1-0.20230507231629-ec008b7e8473
 
-replace github.com/LiamHaworth/go-tproxy => github.com/apernet/go-tproxy v0.0.0-20221025153553-ed04a2935f88
+replace github.com/LiamHaworth/go-tproxy => github.com/M4TRIX04/go-tproxy v0.0.0-20221025153553-ed04a2935f88
 
-replace github.com/elazarl/goproxy => github.com/apernet/goproxy v0.0.0-20221124043924-155acfaf278f
+replace github.com/elazarl/goproxy => github.com/M4TRIX04/goproxy v0.0.0-20221124043924-155acfaf278f
