@@ -14,7 +14,7 @@ import (
 
 	"github.com/xjasonlyu/tun2socks/v2/core/option"
 
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/M4TRIX04/hysteria/core/cs"
 	t2score "github.com/xjasonlyu/tun2socks/v2/core"
 	"github.com/xjasonlyu/tun2socks/v2/core/adapter"
 	"github.com/xjasonlyu/tun2socks/v2/core/device"
